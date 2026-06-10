@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utpam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Pocket Recipes](https://github.com/CodePicsel/pocket-recipe-swap/tree/v2)
-
 - 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **JS, REACT**
