@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JS, REACT**
 
-- 📫 How to reach me **utpam39@gmail.com**
+- 📫 How to reach me **utpam3090@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
